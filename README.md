@@ -22,11 +22,11 @@ Jupyter was used in order to run a .ipynb Notebook. Any editor that allows .ipyn
 ## License
 This project is open-source and follows the MIT License. You are free to use and modify the code following the terms of the MIT License.
 
-## Steps you can Follow to reproduce this work:
+## Steps to Reproduce:
 1)	Import the necessary Python libraries.
 2)	Run the Jupyter notebook which contains the code to retrieve the data from the google document and the APIs, preprocess it, upload it into the output files and create the necessary visualizations. 
 
-## Errors handled
+## Errors Handled
 The parameter safe='' was added to the urllib.parse.quote function so that it is able to handle cases where the movie name contains a special character
 
 ## Output Files 
