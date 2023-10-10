@@ -4,8 +4,8 @@ This project in an exploration into the factors that allow a specific data analy
 The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2023. The learning objective is to create an analysis that can be reproduced and implemented by anyone who reads this repository and goes over the Python notebook. 
 
 ## Data Source
-The dataset that has been used for this analysis - https://docs.google.com/spreadsheets/d/1A1h_7KAo7KXaVxdScJmIVPTvjb3IuY9oZhNV4ZHxrxw/edit#gid=1229854301.
-Thehe Wikimedia Foundation REST API  was used to access pageview data for Wikipedia articles. The data spans from July 2015 through to the previous complete month.
+The dataset that has been used for this analysis - https://docs.google.com/spreadsheets/d/1A1h_7KAo7KXaVxdScJmIVPTvjb3IuY9oZhNV4ZHxrxw/edit#gid=1229854301.  
+The Wikimedia Foundation REST API  was used to access pageview data for Wikipedia articles. The data spans from July 2015 through to the previous complete month.
 
 ## API Documentation
 In order to measure article traffic from 2015-2023, data was collected from the Pageviews API. 
