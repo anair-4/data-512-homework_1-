@@ -11,10 +11,10 @@ Thehe Wikimedia Foundation REST API  was used to access pageview data for Wikipe
 In order to measure article traffic from 2015-2023, data was collected from the Pageviews API. 
 Documentation - https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 Endpoint - https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end
-Terms of use of the Wikimedia Foundation REST API - https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
-Further the following example notebook was used under the CC-BY license.
-Example Notebook - https://drive.google.com/file/d/1XjFhd3eXx704tcdfQ4Q1OQn0LWKCRNJm/view
-CC-BY License - https://creativecommons.org/licenses/by/4.0/
+Terms of use of the Wikimedia Foundation REST API - https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions  
+Further the following example notebook was used under the CC-BY license.  
+Example Notebook - https://drive.google.com/file/d/1XjFhd3eXx704tcdfQ4Q1OQn0LWKCRNJm/view  
+CC-BY License - https://creativecommons.org/licenses/by/4.0/  
  
 ## Environment
 Jupyter was used in order to run a .ipynb Notebook. Any editor that allows .ipynb notebooks can be used to run this project following the installation of the modules specified in the code.
